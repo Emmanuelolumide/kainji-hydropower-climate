@@ -64,4 +64,4 @@ and supply the gridded inputs; figures that use only the CSV files in `data/` (4
 
 ## How to cite
 
-Awomewe, Olumide Emmanuel (2026). Figures and derived data for "Multi-model Projection of Hydropower Potential in a Changing Climate: A case study of Kainji Dam, Nigeria". Zenodo. [DOI to be inserted after publication]. Licence: CC BY 4.0.
+Awomewe, Olumide Emmanuel (2026). Figures and derived data for "Multi-model Projection of Hydropower Potential in a Changing Climate: A case study of Kainji Dam, Nigeria". Zenodo.10.5281/zenodo.23320453. Licence: CC BY 4.0.
