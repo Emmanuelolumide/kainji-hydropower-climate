@@ -10,12 +10,8 @@ The chain is: precipitation (10 NEX-GDDP-CMIP6 models) -> river flow (HMF-WA, 5 
 
 | Item | Content |
 |---|---|
-| `Kainji_Chapter4_and_Appendix_figures_compiled.pdf` | all figures, one per page, with captions and sources (start here) |
-| `figures/` | the 24 figures (4.1-4.18, A.1-A.6) as PNG (300 dpi, white background; Figure 4.7 as four panel files) |
 | `captions.csv` | stand-alone caption, data files and script for every figure |
-| `data/` | derived data behind the plots (CSV, see `data/DATA_DICTIONARY.md`) |
 | `code/` | plotting scripts (provenance; they need the raw gridded data and path edits, see below) |
-| `SHA256SUMS.txt` | file checksums |
 
 ## Figures
 
